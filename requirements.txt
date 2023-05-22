@@ -1,5 +1,5 @@
 Keras==2.3.1
 nltk==3.5
 numpy==1.18.5
-requests==2.23.0
+requests==2.31.0
 tensorflow==2.2.0
